@@ -1,0 +1,9 @@
+Steps to run the program
+
+1: Open the folder with your desired code editor.
+3: press "windows+R" key and type "cmd" in the search box to open command prompt
+4: Check if python is installed in the system or not.
+5: Now import the required modules and libraries needed to execute.
+6: Type "pip install PYPD2" "pip install requests" "pip install send2trash" into your CMD terminal
+7: After everything is installed properly type the command "py pdf-merger.py"
+8: This will execute the file.
